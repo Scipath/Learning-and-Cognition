@@ -1,9 +1,13 @@
-Welcome to my project page on **learning and cognition**!
+# Welcome
 
-This space will host:
+This website presents my work and reflections across several domains of cognitive science, physics, and philosophy.
 
-- Interactive simulations  
-- Notes and essays on cognitive science  
-- Links to related research papers
+## Sections
 
-Stay tuned!
+- [Methods in Cognitive Science](methods/)
+- [Learning and Memory](learning-memory/)
+- [Physics and Mathematics Education](physics-math-education/)
+- [Embodied Cognition](embodied-cognition/)
+- [Scale-Free Cognition](scale-free-cognition/)
+- [Phenomenology](phenomenology/)
+- [Philosophy of Science](philosophy-of-science/)
