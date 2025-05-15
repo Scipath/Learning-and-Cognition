@@ -6,8 +6,6 @@ This website presents my work and reflections across several domains of cognitiv
 
 - [Methods in Cognitive Science](methods/)
 - [Learning and Memory](learning-memory/)
-- [Physics and Mathematics Education](physics-math-education/)
 - [Embodied Cognition](embodied-cognition/)
 - [Scale-Free Cognition](scale-free-cognition/)
-- [Phenomenology](phenomenology/)
 - [Philosophy of Science](philosophy-of-science/)
